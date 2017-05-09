@@ -1,2 +1,2 @@
-<center><p>Ahmed Ouali</p></center>
+<center><h1>Ahmed Ouali</h1></center>
 <p>welcome to my website<p>
